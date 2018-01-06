@@ -1,0 +1,1 @@
+{"name":"dbSNP_138.b37","format":"vcf","description":"dbSNP release 138. For reference genome GRCh37, b37.","compression":"gzip","url":"ftp://gsapubftp-anonymous@ftp.broadinstitute.org/bundle/b37/dbsnp_138.b37.vcf.gz","how_get":"download","target_files":"dbsnp_138.b37.vcf","software":"","parameter":""}
